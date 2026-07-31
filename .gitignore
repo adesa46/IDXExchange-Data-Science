@@ -1,6 +1,9 @@
 # Data files
 Data/
+Cleaned, Test, Train Data/
+scratch/
 *.csv
+*.zip
 
 # Python virtual environment
 venv/
@@ -19,6 +22,5 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
-
 
 .bashrc
